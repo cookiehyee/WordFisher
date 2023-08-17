@@ -1,4 +1,4 @@
-package lab13;
+package wordfisher;
 
 import java.io.IOException;
 
